@@ -1,4 +1,4 @@
-# Detecting-potholes-using-YOLOv8-using-custom-dataset
+# Detecting-potholes-using-YOLOv8-on-custom-dataset
 
 **Download the Dataset**
 * If you plan to execute the training commands on terminal, you can download the dataset by executing the following command.
